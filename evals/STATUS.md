@@ -1,6 +1,6 @@
 # 验证状态
 
-更新时间：2026-10-31。目标：尚未发布的 `v0.1.0-alpha` 预览版。
+更新时间：2026-10-31。版本：[v0.1.0-alpha](https://github.com/zeyu-chen-dev/calculus-tutor-skill/releases/tag/v0.1.0-alpha) 预览版。
 
 本页记录开发过程中的功能观察与验证边界，不收录学生原始对话、题目图片或私人学习档案。
 
