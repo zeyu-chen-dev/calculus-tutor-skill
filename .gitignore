@@ -1,0 +1,9 @@
+# 私人学习数据：只提交经过单独授权、审阅和脱敏的案例。
+learning-records/
+private/
+raw-conversations/
+
+# 本地临时文件。
+.DS_Store
+__pycache__/
+*.py[cod]
