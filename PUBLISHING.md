@@ -1,8 +1,10 @@
-# 首发材料与待办
+# 发布信息
 
-目标：以 `v0.1.0-alpha` 发布可试用的教学规则预览。本地首发材料已整理，尚无 GitHub 远程地址、版本标签或正式 Release。本地提交状态以 Git 日志为准。
+仓库：[zeyu-chen-dev/calculus-tutor-skill](https://github.com/zeyu-chen-dev/calculus-tutor-skill)。
 
-GitHub 连接已验证可用。根据当前连接，拟用个人账号下的 `zeyu-chen-dev/calculus-tutor-skill`；对该仓库的读取返回未找到，尚未创建或验证公开发布。最终归属与发布范围仍由发起者确认。已选择 MIT 许可证与公开署名 `zeyu-chen-dev`。
+本版：[v0.1.0-alpha](https://github.com/zeyu-chen-dev/calculus-tutor-skill/releases/tag/v0.1.0-alpha)，alpha 预览版。具体标签、提交和发布时间以 GitHub Release 页面为准。
+
+许可：[MIT](LICENSE)，版权署名 `zeyu-chen-dev`。
 
 ## 已备好的发布文件
 
@@ -12,36 +14,21 @@ GitHub 连接已验证可用。根据当前连接，拟用个人账号下的 `ze
 - [CHANGELOG.md](CHANGELOG.md)：本地已完成工作。
 - [evals/STATUS.md](evals/STATUS.md)：已观察行为与未验证部分。
 
-## 发布前需要确定
+## 发布范围与核对
 
-- [x] 选择 MIT 许可证并写入正式 [LICENSE](LICENSE)，版权署名 `zeyu-chen-dev`。
-- [ ] 确认 GitHub 账号或组织、仓库名与公开发布的具体范围。
-- [x] 检查 17 个待发布文件，未包含私人数据、原始对话或题目图片。
-- [x] 确认 GitHub 连接可用。
-- [ ] 在发起者确认公开范围后，创建公开仓库并上传审阅过的本地提交。
-- [ ] 根据实际发布状态更新 README 与本页；在推送结果核验后再添加版本标签或 Release。
+本版包含 17 个项目文件：教学规则、题型与复习参考、中英文介绍、模拟演示与案例、贡献说明、验证资料和 MIT 许可证。没有收录学生原始对话、题目图片或私人学习记录。
 
-已采用 MIT。其文本允许使用、复制、修改、分发及商用，要求保留版权和许可声明，并提供原样免责声明。详见本仓库的 [LICENSE](LICENSE) 与 [Open Source Initiative 的 MIT 文本](https://opensource.org/license/mit)。
+上传通过已登录的 GitHub 网页完成；原始本地预览提交为 `60cc2d2`，网页上传生成独立提交历史。全部 17 个文件首次上传完成后，其文件树与该本地预览完全一致；随后仅更新发布状态与项目链接。原预览提交保留在本地 `reviewed-preview-60cc2d2` 分支。
 
-不要用公开聊天之外的个人资料自动填写版权名或项目介绍。采用集体署名或 GitHub 用户名时，由发起者确认具体文本。
+格式与文件检查通过，教学效果验证范围见 [evals/STATUS.md](evals/STATUS.md)。外部分享由维护者另外执行，创建仓库和 Release 不代表已经向任何社区发帖。
 
-## 仓库展示字段草稿
+后续版本发布时，应检查文件内容、运行受影响的验收场景、更新验证状态与版本记录，再创建指向目标提交的标签和 Release。不要把模拟输出改写成实测结果。
 
-名称：`calculus-tutor-skill`
-
-简介：
-
-> A calculus tutoring skill that explains why a method comes to mind, with six modes for learning, revision, and worked solutions.
-
-建议 Topics：`calculus`、`ai-tutor`、`agent-skills`、`mathematics-education`、`prompt-engineering`。
-
-首发前只列出已实际验证的宿主能力。外部社区分享与宣传文案发布由维护者另外执行，不把创建仓库等同于授权向他人发消息。
-
-## GitHub Release 文案草稿
+## 本版发布说明
 
 标题：`v0.1.0-alpha — Calculus tutoring skill preview`
 
-发布时使用预览版标记。以下正文可在实际发布时使用：
+GitHub Release 使用 Pre-release 标记，正文如下：
 
 > 首个公开预览：一套面向大学高等数学的 AI 辅导规则，关注“为什么学生没有想到这一步”。
 >

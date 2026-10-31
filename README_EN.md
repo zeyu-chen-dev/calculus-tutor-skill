@@ -8,7 +8,7 @@ A calculus tutoring skill for university students. It helps an AI tutor identify
 
 The project grew out of its initiator's experience learning calculus with AI. Its central question is: **why did the student not think of this step?**
 
-Status: preparing an unpublished `v0.1.0-alpha` preview. The entry-point format has been checked. A native mode-selection round trip and a short practice-mode interaction have been observed in the development chat. Full behavioral evaluation, cross-host compatibility, and learning outcomes remain unverified. Public examples are illustrative. Licensed under the [MIT License](LICENSE), copyright 2026 `zeyu-chen-dev`.
+Current version: [v0.1.0-alpha](https://github.com/zeyu-chen-dev/calculus-tutor-skill/releases/tag/v0.1.0-alpha), a public preview. The entry-point format has been checked. A native mode-selection round trip and a short practice-mode interaction have been observed in the development chat. Full behavioral evaluation, cross-host compatibility, and learning outcomes remain unverified. Public examples are illustrative. Licensed under the [MIT License](LICENSE), copyright 2026 `zeyu-chen-dev`.
 
 ## Try it
 
@@ -67,4 +67,4 @@ Private learning records and raw conversations should stay out of public contrib
 
 If the project helps you, consider starring it, reporting a concrete failure, or contributing a pattern with its limits of applicability.
 
-Licensed under the [MIT License](LICENSE). GitHub publication is pending. See [PUBLISHING.md](PUBLISHING.md) for the proposed preview release.
+Licensed under the [MIT License](LICENSE). Repository: [zeyu-chen-dev/calculus-tutor-skill](https://github.com/zeyu-chen-dev/calculus-tutor-skill). See [PUBLISHING.md](PUBLISHING.md) for release information.

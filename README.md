@@ -8,7 +8,7 @@ calculus-tutor-skill 是面向大学生的高等数学 AI 辅导 Skill：找准�
 
 项目源于发起者学习高数时与 AI 的真实对话经验。我们关心的不只是答案是否正确，还包括：**学生为什么没有想到这一步？这次解释之后，下次能否自己想到？**
 
-当前状态：准备 `v0.1.0-alpha` 公开预览版，尚未发布 GitHub。入口格式检查通过，已观察到一次带选项的模式选择与课后巩固交互片段；完整场景、跨平台与学习效果尚未验证。现有公开案例均为模拟。采用 [MIT License](LICENSE)，版权署名为 `zeyu-chen-dev`；详见 [验证状态](evals/STATUS.md)。
+当前版本：[v0.1.0-alpha](https://github.com/zeyu-chen-dev/calculus-tutor-skill/releases/tag/v0.1.0-alpha)，公开预览版。入口格式检查通过，已观察到一次带选项的模式选择与课后巩固交互片段；完整场景、跨平台与学习效果尚未验证。现有公开案例均为模拟。采用 [MIT License](LICENSE)，版权署名为 `zeyu-chen-dev`；详见 [验证状态](evals/STATUS.md)。
 
 ## 三步试用
 
@@ -139,4 +139,4 @@ Codex 本地项目试用可将整个文件夹放到目标项目的 `.agents/skil
 
 欢迎提出“算对了但没教会”的具体片段，以及学生在何处失去理解。最有用的反馈是：选择了什么模式、想得到什么、实际在哪一步卡住。先看 [贡献说明](CONTRIBUTING.md)；案例格式见 [examples/README.md](examples/README.md)。未获授权的原始对话、学号、联系方式、课程账号信息及私人复习记录不应提交到仓库。
 
-如果这个项目对你有用，欢迎 Star、提交具体教学反馈，或贡献一个有适用边界的题型条目。本项目采用 [MIT License](LICENSE)；GitHub 仓库地址将在实际发布后补充。
+如果这个项目对你有用，欢迎 Star、提交具体教学反馈，或贡献一个有适用边界的题型条目。本项目采用 [MIT License](LICENSE)。项目地址：[zeyu-chen-dev/calculus-tutor-skill](https://github.com/zeyu-chen-dev/calculus-tutor-skill)。

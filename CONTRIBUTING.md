@@ -37,4 +37,4 @@ Skill 版本或提交：
 
 ## 当前发布状态
 
-项目正在准备 alpha 预览版，采用 [MIT License](LICENSE)。提交贡献前请确认你有权按该许可提供相应内容；第三方材料应保留必要来源与授权说明。发布状态见 [PUBLISHING.md](PUBLISHING.md)。
+当前为 alpha 预览版，采用 [MIT License](LICENSE)。提交贡献前请确认你有权按该许可提供相应内容；第三方材料应保留必要来源与授权说明。发布信息见 [PUBLISHING.md](PUBLISHING.md)。
